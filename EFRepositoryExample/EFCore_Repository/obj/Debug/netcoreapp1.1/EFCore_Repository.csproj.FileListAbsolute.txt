@@ -1,0 +1,11 @@
+C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\EFCore_Repository\bin\Debug\netcoreapp1.1\EFCore_Repository.deps.json
+C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\EFCore_Repository\bin\Debug\netcoreapp1.1\EFCore_Repository.dll
+C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\EFCore_Repository\obj\Debug\netcoreapp1.1\EFCore_Repository.csprojResolveAssemblyReference.cache
+C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\EFCore_Repository\obj\Debug\netcoreapp1.1\EFCore_Repository.AssemblyInfo.cs
+C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\EFCore_Repository\bin\Debug\netcoreapp1.1\EFCore_Repository.pdb
+C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\EFCore_Repository\bin\Debug\netcoreapp1.1\Entities.dll
+C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\EFCore_Repository\bin\Debug\netcoreapp1.1\RepositoryBase.dll
+C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\EFCore_Repository\bin\Debug\netcoreapp1.1\Entities.pdb
+C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\EFCore_Repository\bin\Debug\netcoreapp1.1\RepositoryBase.pdb
+C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\EFCore_Repository\obj\Debug\netcoreapp1.1\EFCore_Repository.dll
+C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\EFCore_Repository\obj\Debug\netcoreapp1.1\EFCore_Repository.pdb
