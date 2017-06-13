@@ -4,3 +4,4 @@ C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\RepositoryBase\bin\Deb
 C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\RepositoryBase\bin\Debug\netstandard1.4\RepositoryBase.pdb
 C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\RepositoryBase\obj\Debug\netstandard1.4\RepositoryBase.dll
 C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\RepositoryBase\obj\Debug\netstandard1.4\RepositoryBase.pdb
+C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\RepositoryBase\obj\Debug\netstandard1.4\RepositoryBase.csprojResolveAssemblyReference.cache
