@@ -1,0 +1,14 @@
+C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\EF6_Repository\bin\Debug\EF6_Repository.dll.config
+C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\EF6_Repository\bin\Debug\EF6_Repository.dll
+C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\EF6_Repository\bin\Debug\EF6_Repository.pdb
+C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\EF6_Repository\bin\Debug\Entities.dll
+C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\EF6_Repository\bin\Debug\EntityFramework.dll
+C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\EF6_Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\EF6_Repository\bin\Debug\RepositoryBase.dll
+C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\EF6_Repository\bin\Debug\Entities.pdb
+C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\EF6_Repository\bin\Debug\RepositoryBase.pdb
+C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\EF6_Repository\bin\Debug\EntityFramework.xml
+C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\EF6_Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\EF6_Repository\obj\Debug\EF6_Repository.csprojResolveAssemblyReference.cache
+C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\EF6_Repository\obj\Debug\EF6_Repository.dll
+C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\EF6_Repository\obj\Debug\EF6_Repository.pdb
