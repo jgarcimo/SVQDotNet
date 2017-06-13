@@ -886,6 +886,20 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v1.4",
+        "dependencies": {
+          "NETStandard.Library": "1.6.1"
+        }
+      },
+      "RepositoryBase/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v1.4",
+        "dependencies": {
+          "NETStandard.Library": "1.6.1"
+        }
       }
     }
   },
@@ -3695,11 +3709,23 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "Entities/1.0.0": {
+      "type": "project",
+      "path": "../Entities/Entities.csproj",
+      "msbuildProject": "../Entities/Entities.csproj"
+    },
+    "RepositoryBase/1.0.0": {
+      "type": "project",
+      "path": "../RepositoryBase/RepositoryBase.csproj",
+      "msbuildProject": "../RepositoryBase/RepositoryBase.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v1.4": [
-      "NETStandard.Library >= 1.6.1"
+      "Entities >= 1.0.0",
+      "NETStandard.Library >= 1.6.1",
+      "RepositoryBase >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -3708,17 +3734,24 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jgarcimo\\Documents\\SVQDotNet\\EFRepositoryExample\\Entities\\Entities.csproj",
-      "projectName": "Entities",
-      "projectPath": "C:\\Users\\jgarcimo\\Documents\\SVQDotNet\\EFRepositoryExample\\Entities\\Entities.csproj",
-      "outputPath": "C:\\Users\\jgarcimo\\Documents\\SVQDotNet\\EFRepositoryExample\\Entities\\obj\\",
+      "projectUniqueName": "C:\\Users\\jgarcimo\\Documents\\SVQDotNet\\EFRepositoryExample\\RepositoryFactory\\RepositoryFactory.csproj",
+      "projectName": "RepositoryFactory",
+      "projectPath": "C:\\Users\\jgarcimo\\Documents\\SVQDotNet\\EFRepositoryExample\\RepositoryFactory\\RepositoryFactory.csproj",
+      "outputPath": "C:\\Users\\jgarcimo\\Documents\\SVQDotNet\\EFRepositoryExample\\RepositoryFactory\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netstandard1.4"
       ],
       "frameworks": {
         "netstandard1.4": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\jgarcimo\\Documents\\SVQDotNet\\EFRepositoryExample\\RepositoryBase\\RepositoryBase.csproj": {
+              "projectPath": "C:\\Users\\jgarcimo\\Documents\\SVQDotNet\\EFRepositoryExample\\RepositoryBase\\RepositoryBase.csproj"
+            },
+            "C:\\Users\\jgarcimo\\Documents\\SVQDotNet\\EFRepositoryExample\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\jgarcimo\\Documents\\SVQDotNet\\EFRepositoryExample\\Entities\\Entities.csproj"
+            }
+          }
         }
       }
     },

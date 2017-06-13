@@ -1,7 +1,6 @@
 C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\Entities\bin\Debug\netstandard1.6\Entities.deps.json
 C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\Entities\bin\Debug\netstandard1.6\Entities.dll
 C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\Entities\bin\Debug\netstandard1.6\Entities.pdb
-C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\Entities\obj\Debug\netstandard1.6\Entities.csprojResolveAssemblyReference.cache
 C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\Entities\obj\Debug\netstandard1.6\Entities.AssemblyInfo.cs
 C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\Entities\obj\Debug\netstandard1.6\Entities.dll
 C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\Entities\obj\Debug\netstandard1.6\Entities.pdb

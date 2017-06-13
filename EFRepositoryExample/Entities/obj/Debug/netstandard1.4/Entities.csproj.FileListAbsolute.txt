@@ -4,4 +4,3 @@ C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\Entities\bin\Debug\net
 C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\Entities\obj\Debug\netstandard1.4\Entities.AssemblyInfo.cs
 C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\Entities\obj\Debug\netstandard1.4\Entities.dll
 C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\Entities\obj\Debug\netstandard1.4\Entities.pdb
-C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\Entities\obj\Debug\netstandard1.4\Entities.csprojResolveAssemblyReference.cache

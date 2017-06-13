@@ -1,0 +1,11 @@
+C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\RepositoryFactory\bin\Debug\netstandard1.6\RepositoryFactory.deps.json
+C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\RepositoryFactory\bin\Debug\netstandard1.6\RepositoryFactory.dll
+C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\RepositoryFactory\bin\Debug\netstandard1.6\RepositoryFactory.pdb
+C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\RepositoryFactory\obj\Debug\netstandard1.6\RepositoryFactory.csprojResolveAssemblyReference.cache
+C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\RepositoryFactory\obj\Debug\netstandard1.6\RepositoryFactory.AssemblyInfo.cs
+C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\RepositoryFactory\obj\Debug\netstandard1.6\RepositoryFactory.dll
+C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\RepositoryFactory\obj\Debug\netstandard1.6\RepositoryFactory.pdb
+C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\RepositoryFactory\bin\Debug\netstandard1.6\Entities.dll
+C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\RepositoryFactory\bin\Debug\netstandard1.6\RepositoryBase.dll
+C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\RepositoryFactory\bin\Debug\netstandard1.6\Entities.pdb
+C:\Users\jgarcimo\Documents\SVQDotNet\EFRepositoryExample\RepositoryFactory\bin\Debug\netstandard1.6\RepositoryBase.pdb
